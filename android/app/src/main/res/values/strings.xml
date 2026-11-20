@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">I Love You</string>
+    <string name="server_connection">Server Connection</string>
+    <string name="server_url">Server URL</string>
+    <string name="server_url_default">https://coat-icy-lushly.ngrok-free.dev</string>
+    <string name="server_url_hint">https://coat-icy-lushly.ngrok-free.dev</string>
+    <string name="api_key">API Key</string>
+    <string name="api_key_hint">Enter backend API key</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connected">Connected</string>
+    <string name="monitoring_control">Monitoring Control</string>
+    <string name="monitoring_inactive">Monitoring Inactive</string>
+    <string name="monitoring_active">Monitoring Active</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="device_information">Device Information</string>
+    <string name="loading_device_info">Loading device info…</string>
+</resources>
